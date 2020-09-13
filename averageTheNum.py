@@ -8,10 +8,3 @@ def average(list):
 
     #prints the average
     print(averagingTheNum)
-
-def diceRoll(num):
-    import random
-
-    sidesOfDice = random.randint(0, num)
-
-    print(sidesOfDice)
